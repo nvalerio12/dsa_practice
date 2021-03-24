@@ -59,9 +59,9 @@ function sort(list){
 - What method would you use to look up a word in a dictionary (book, not Python)?
 
 - Imagine you have a closet full of shirts. What can you do to organize your shirts for easy retrieval?
-
+I would First orginize by seasons being that I'm located in Massachusetts, and for every season I would move whatever is not in season to the back of the closet. 
 - Describe advantages and disadvantages of the most popular sorting algorithms.
-
+The quick sort works on the divide-and-conquer principle.
 ---
 
 ### HackerRank Problems
